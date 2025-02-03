@@ -5,10 +5,13 @@ This project analyzes global layoffs data, focusing on trends, patterns, and ins
 ### Data Collection – Gathered raw data on worldwide layoffs.
 ### Data Cleaning – Performed the following:
 
-Removed duplicates
-Fixed errors in records
-Eliminated NULL values
-Dropped irrelevant columns
+- Removed duplicates
+  
+- Fixed errors in records
+  
+- Eliminated NULL values
+  
+- Dropped irrelevant columns
 
 ### Exploratory Data Analysis (EDA) – Identified key insights and trends.
 
